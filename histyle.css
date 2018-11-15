@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+.ftsty{
+    font-family: 'Playfair Display', serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.ftmsg2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.ftmsg{
+    font-family: 'Roboto', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
+.parfont{
+    font-family: 'Patrick Hand', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+.testwrd{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.mrgtp{
+    margin: 0.65px;
+}
+
+.titletp{
+    font-weight: bold;
+}
+
+.ptopt{
+    padding-top: 10px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.content{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.content2{
+    max-width: 800px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.pdart{
+    padding-top: 40px
+}
+
+.fontst{
+    font-style: italic;
+}
+
+.unorder{
+    list-style: none;
+}
+
+#menu li{
+    display: inline;
+}
+
+.paddingicn{
+    padding-right: 30px;
+}
+
+.topmrgft{
+    margin-top: 20px;
+}
+
+.textclrft{
+    color: #fe525b;
+}
+
+.botmrgft{
+    margin-bottom: 20px;
+}
+
+.mbr-text{
+    letter-spacing: 1px;
+    font-style: normal;
+    line-height: 2;
+}
+
+.ficnsize{
+    font-size: 1.5rem;
+}
+
+.favpad{
+    padding-right: 0.2rem;
+}
